@@ -1,6 +1,6 @@
 # Klondike
 
-[demo](/res/webwxgetmsgimg.jpeg)
+![](/res/webwxgetmsgimg.jpeg)
 
 +  This is card game that is base on cocos2dx game and developed by lua language
 +  This source is not include engine part,how to download and use the engine ,you can refer [cocos2d](http://cocos2d-x.org/docs/en/)
